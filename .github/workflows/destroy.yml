@@ -1,7 +1,7 @@
 name: Destroy ECS Infrastructure
 
 on:
-  workflow_dispatch:  # déclenchement manuel dans GitHub Actions
+  workflow_dispatch:  # déclenchement manuel dans GitHub Actions.
 
 env:
   AWS_REGION: us-east-1
